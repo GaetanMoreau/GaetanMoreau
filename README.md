@@ -3,7 +3,7 @@
 Welcome on my profile, I'm Gaëtan Moreau a front-end developer based in France.
 
 - 🔭 I’m currently working on a lots of things...
-- 🌱 I’m currently learning: VueJS, NuxtJS and Strapi.
+- 🌱 I’m currently learning: Svelte and Sveltekit.
 - 📫 How to reach me: https://www.gaetan-moreau.fr
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaetanMoreau&show_icons=true&theme=highcontrast)
