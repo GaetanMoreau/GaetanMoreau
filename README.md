@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.gaetan-moreau.fr">Site</a> ·
-  <a href="https://www.linkedin.com/in/gmoreau24">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/gmoreau24">LinkedIn</a>
 </p>
 
 ---
